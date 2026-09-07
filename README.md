@@ -39,6 +39,9 @@ And here are some more oddly specific resources that may or may not be helpful:
   * note: your mileage may vary when following any LaTeX tutorial with this template; be prepared to troubleshoot if
   needed or just open an issue and I can try doing that work for you, but keep in mind, I did not develop this package
   nor do I have familiarity with its source or full extent of its features as of currently writing this
+* [Set noindent for entire file](https://tex.stackexchange.com/questions/27802/set-noindent-for-entire-file)
+  * Note: idk if you must commit to having no-indent everywhere in this case (ie if you set this globally,
+  then you can't even indent if you wanted to?)
 
 If you have any questions or concerns, please make an issue and I shall do my best to help or at
 least point you in the right direction
